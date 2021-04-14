@@ -9,8 +9,6 @@ export function Headline(props) {
       <p className={classes.description}>
         Get started by editing {props.children}
       </p>
-
-      <button onClick={props.onClick}>button</button>
     </div>
   );
 }
