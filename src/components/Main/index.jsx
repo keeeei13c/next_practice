@@ -4,6 +4,7 @@ import { Links } from 'src/components/Links'
 import { Headline } from 'src/components/Headline'
 
 export function Main(props) {
+  
   return (
     <div className={classes.container}>
       <main className={classes.main}>
